@@ -1,6 +1,6 @@
-# NeuroNexus MACHINE LEARNING PROJECT
+# NeuroNexus Machine Learning Project
 
-This GitHub repository contains the code and resources for three completed tasks undertaken as part of the Codsoft projects. Each task involves the development of machine learning models for different purposes. Below is an overview of each task and its respective code and resources:
+This GitHub repository contains the code and resources for three completed tasks undertaken as part of the NeuroNexus projects. Each task involves the development of machine learning models for different purposes. Below is an overview of each task and its respective code and resources:
 
 ## Task 1: Movie Genre Classification
 Objective: Create a machine learning model that predicts the genre of a movie based on its plot summary or textual information. Techniques such as TF-IDF or word embeddings, along with classifiers like Naive Bayes, Logistic Regression, or Support Vector Machines, are employed.
